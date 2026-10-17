@@ -224,4 +224,4 @@ Opera USB is provided as a full free version, ensuring all features and updates 
 Ready to take your browsing experience with you? **Download Opera USB today and enjoy the freedom of portable browsing!**
 
 ---
-**Last updated:** 2026-10-16 23:25:52 UTC
+**Last updated:** 2026-10-17 04:06:57 UTC
